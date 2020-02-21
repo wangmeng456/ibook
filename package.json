@@ -1,0 +1,23 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这是一个 GitBook 自动化构建的 Demo。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangmeng456/ibook.git"
+  },
+  "keywords": [],
+  "author": "wangmeng456",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangmeng456/ibook/issues"
+  },
+  "homepage": "https://github.com/wangmeng456/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
